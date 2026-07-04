@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Ryota Komatsu.
+Hi, I'm Ryota Komatsu.
 Currently, I work on spoken language processing and its applications to spoken dialogue systems.
 
 Education
 ======
-* 2025.04 - 2028.03, doctoral student in the Department of Information and Communications Engineering, Institute of Science Tokyo, supervised by Prof. Takahiro Shinozaki.
-* 2021.04 - 2023.03, master student in the Department of Information and Communications Engineering, Tokyo Institute of Technology, supervised by Prof. Takahiro Shinozaki.
-* 2017.04 - 2021.03, undergraduate student in the Department of Information and Communications Engineering, Tokyo Institute of Technology, supervised by Prof. Isao Yamada.
+* 2025.04 - 2028.03, doctoral student, Institute of Science Tokyo, advised by Prof. Takahiro Shinozaki.
+* 2023.03, M.Eng., Tokyo Institute of Technology, advised by Prof. Takahiro Shinozaki.
+* 2021.03, B.Eng., Tokyo Institute of Technology, advised by Prof. Isao Yamada.
 
 Work experience
 ======
@@ -26,15 +26,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awards
-======
-* Best Student Presentation Award, Acoustical Society of Japan (ASJ), 2023.
-
 Invited Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Awards
+======
+* Best Student Presentation Award, Acoustical Society of Japan (ASJ), 2023.
 
 Scholarship
 ======
